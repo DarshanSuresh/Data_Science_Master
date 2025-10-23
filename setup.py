@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# All rights reserved to Darshan Suresh - darshansuresh1804@gmail.com
 
 DESCRIPTION = "dshelper: A GUI tool to display pandas dataframe and draw plots in a few clicks"
 LONG_DESCRIPTION = """\
