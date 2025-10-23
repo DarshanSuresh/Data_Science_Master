@@ -114,5 +114,3 @@ For help with any dataframe, you can follow the following steps:
 
 If you like this project, please distribute it and star it for more people to see.
 Any suggestions and contributions are very welcomed.
-
-ALL RIGHTS RESERVED
