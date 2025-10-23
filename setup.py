@@ -1,6 +1,4 @@
 #! /usr/bin/env python
-#
-# Copyright (C) 2018-2021 Minchang (Carson) Zhang
 
 DESCRIPTION = "dshelper: A GUI tool to display pandas dataframe and draw plots in a few clicks"
 LONG_DESCRIPTION = """\
