@@ -1,4 +1,4 @@
-# Data Science Master 
+# Data Science Master  
 
 A visualization tool designed to help data scientists better examine their data sets.
 
